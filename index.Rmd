@@ -1,5 +1,5 @@
 ---
-title: "Silas Decker Comp Bio Webpage"
+title: "Silas Decker Comp Bio Webpage :)"
 author: "Silas Decker"
 date: "2025-01-21"
 output: html_document
